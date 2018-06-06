@@ -47,13 +47,13 @@ hr {
   height: 0; }
 
 a {
-  color: #1C2326;
+  color: #BF0000;
   font-weight: bold;
   text-decoration: none;
   outline: 0; }
 
 a:hover, a:focus {
-  color: #475961; }
+  color: #ff2626; }
 
 ::-moz-selection {
   background: #FFF498; }
